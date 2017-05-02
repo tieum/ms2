@@ -6,5 +6,5 @@ require 'uri'
 set :bind, '0.0.0.0'
 
 get '/' do
-  "Hello there\n"
+  "<feature3>Hello there\n"
 end
